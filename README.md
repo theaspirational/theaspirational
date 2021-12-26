@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theaspirational
-- 👀 I’m interested in game development (Godot) 
-- 🌱 I’m currently learning "Software Design for Flexibility" by Chris Hanson and Gerald Sussman
-- 💞️ I’m looking to collaborate on developing collectible card games (NFTs)
+- 👀 I’m interested in decentralized databases
+- 🌱 I’m currently learning "Software Design for Flexibility" by Chris Hanson and Gerald Sussman and "Let Over Lambda" by Doug Hoyte
+- 💞️ I’m looking to collaborate on developing decentralized applications
 - 📫 How to reach me : telegram @aspirational
 
 <!---
