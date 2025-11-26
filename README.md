@@ -2,7 +2,7 @@
 - 👀 I’m interested in decentralized databases
 - 🌱 I’m currently learning "Software Design for Flexibility" by Chris Hanson and Gerald Sussman and "Let Over Lambda" by Doug Hoyte
 - 💞️ I’m looking to collaborate on developing decentralized applications
-- 📫 How to reach me : telegram @aspirational
+- 📫 How to reach me : telegram @hash644
 
 <!---
 theaspirational/theaspirational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
